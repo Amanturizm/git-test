@@ -12,4 +12,3 @@ for (let i: number = 1; i < 8; i++) {
 }
 
 console.log(board.join(''));
-// kek
